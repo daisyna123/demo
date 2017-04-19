@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book>
+        <name>《红楼梦》</name>
+        <author>曹雪芹</author>
+        <price>99.9</price>
+    </book>
+    <book2>
+        <name>《红楼梦1》</name>
+        <author>曹雪芹1</author>
+        <price>99.9</price>
+    </book2>
+
+</books>
